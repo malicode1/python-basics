@@ -1,3 +1,5 @@
+# basics.py
+# Basic Python examples
 print("Hello Github")
 
 name = input("Enter your name: ")

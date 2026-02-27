@@ -1,3 +1,5 @@
+# 02_conditions.py
+# Conditions and basic calculator
 print("---CONDITIONS---")
 
 print("\n---CALCULATOR---")
