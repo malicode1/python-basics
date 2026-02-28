@@ -1,2 +1,8 @@
-# python-basics
-My Python learning journey. Small practice projects and exercises.
+## Topics Covered
+- Input / Output
+- Conditions
+- Loops
+- Small practice examples
+
+## Goal
+Becoming a software engineer and building games in the future.
