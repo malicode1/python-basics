@@ -8,6 +8,7 @@ This repository contains my Python learning progress and practice exercises.
 - Conditions (if / else)
 - Loops
 - Lists
+- functions
 - Dictionaries
 - Small practice examples
 
