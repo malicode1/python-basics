@@ -1,4 +1,4 @@
-# project Mad Libs Game
+# project mad_libs_game
 
 print("---Mad Libs Game---")
 
