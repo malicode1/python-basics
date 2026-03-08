@@ -6,7 +6,7 @@ try:
     divide = num_1 / num_2
     print(divide)
 except ValueError:
-    print("Invalid input")
+    print("Please enter a number")
 except ZeroDivisionError as err:
     print(err)
 
